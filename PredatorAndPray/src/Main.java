@@ -1,3 +1,5 @@
+package PredatorAndPray.src;
+
 import javax.swing.Timer;
 
 public class Main {

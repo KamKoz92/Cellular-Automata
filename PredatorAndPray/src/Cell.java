@@ -1,3 +1,5 @@
+package PredatorAndPray.src;
+
 import java.awt.Color;
 
 public class Cell {
